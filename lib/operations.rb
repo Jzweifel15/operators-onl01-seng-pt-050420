@@ -16,3 +16,4 @@ end
 	
 not_safe?(79)
 not_safe?(35)
+not_safe?(50)
