@@ -5,12 +5,11 @@ def unsafe?(speed)
       return false
 end
 
-
+unsafe(79)
+unsafe(35)
 
 def not_safe?(speed)
 	
 end
 	
 
-unsafe(79)
-unsafe(35)
